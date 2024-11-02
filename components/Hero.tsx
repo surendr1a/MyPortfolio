@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="pb-20 pt-36">
       {/**
        *  UI: Spotlights
-       *  Link: https://ui.aceternity.com/components/spotlight
+       *  Link: https:/nity.com/components/spotlight
        */}
       <div>
         <Spotlight
@@ -43,11 +43,11 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Dynamic Web Magic with Next.js
+            Dynamic Web Magic with React.js
           </p>
 
           {/**
-           *  Link: https://ui.aceternity.com/components/text-generate-effect
+           *  Link: https:/nity.com/components/text-generate-effect
            *
            *  change md:text-6xl, add more responsive code
            */}
@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Adrian, a Next.js Developer based in Croatia.
+            Hi! I&apos;m Surendra, a React.js Developer based in Indore,India.
           </p>
 
           <a href="#about">
